@@ -1,0 +1,12 @@
+Version 0.1
+	-- Initial Version Released.
+
+Version 0.2
+	-- Changed pexel image URLs to pixabay image URLs.
+	-- Removed "back-compat.php" included code from function.php file.
+	-- Changed urlencode() to rawurlencode().
+	-- Added proper translation in Search.php and content-none.php file.
+	-- Defined sharing urls in function.php. and added in content.php and grid-layout.php file.
+
+Version 0.3
+	-- Resolved the single.php file issue.

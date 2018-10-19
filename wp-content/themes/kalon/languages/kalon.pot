@@ -1,0 +1,571 @@
+# Copyright (C) 2018 Rara Theme
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kalon 1.1.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2018-05-25 09:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;"
+
+#: 404.php:14
+msgid "Page Not Found!"
+msgstr ""
+
+#: 404.php:15
+msgid "404"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"We&rsquo;re sorry, but we can&rsquo;t find the page you were looking for.\n"
+"\t\t\t It&rsquo;s probably some thing we&rsquo;ve done wrong but<br> now we "
+"know about it and \n"
+"\t\t\t we&rsquo;ll try to fix it. In the meantime, try one of these options:"
+msgstr ""
+
+#: 404.php:22
+msgid "Go to Previous Page"
+msgstr ""
+
+#: 404.php:23
+msgid "Go to Homepage"
+msgstr ""
+
+#: archive.php:31 index.php:44 search.php:32
+msgid "Previous"
+msgstr ""
+
+#: archive.php:32 index.php:45 search.php:33
+msgid "Next"
+msgstr ""
+
+#: archive.php:33 index.php:46 search.php:34
+msgid "Page"
+msgstr ""
+
+#: comments.php:31 inc/template-tags.php:37
+#, php-format
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:50
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:53
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:54
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: functions.php:137
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:147
+msgid "Footer One"
+msgstr ""
+
+#: functions.php:157
+msgid "Footer Two"
+msgstr ""
+
+#: functions.php:167
+msgid "Footer Three"
+msgstr ""
+
+#: inc/customizer.php:16
+msgid "Static Front Page"
+msgstr ""
+
+#: inc/customizer.php:25
+msgid "Default Settings"
+msgstr ""
+
+#: inc/customizer.php:26
+msgid "Default section provided by wordpress customizer."
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "In order to show posts in slider, make the posts sticky."
+msgstr ""
+
+#: inc/customizer.php:63
+msgid "Enable Home Page Slider"
+msgstr ""
+
+#: inc/customizer.php:81
+msgid "Enable Slider Auto Transition"
+msgstr ""
+
+#: inc/customizer.php:99
+msgid "Enable Slider Loop"
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "Enable Slider Control"
+msgstr ""
+
+#: inc/customizer.php:135
+msgid "Enable Slider Caption"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Choose Slider Animation"
+msgstr ""
+
+#: inc/customizer.php:157
+msgid "Fade"
+msgstr ""
+
+#: inc/customizer.php:158
+msgid "Slide"
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Slider Speed"
+msgstr ""
+
+#: inc/customizer.php:185 inc/extras.php:199 template-parts/content.php:70
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/customizer.php:193
+msgid "Readmore Text"
+msgstr ""
+
+#: inc/customizer.php:206
+msgid "Social Settings"
+msgstr ""
+
+#: inc/customizer.php:207
+msgid "Leave blank if you do not want to show the social link."
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "Enable Social Links"
+msgstr ""
+
+#: inc/customizer.php:243 inc/extras.php:175 inc/widget-social-links.php:54
+#: inc/widget-social-links.php:97
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer.php:262 inc/extras.php:177 inc/widget-social-links.php:56
+#: inc/widget-social-links.php:102
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer.php:280 inc/extras.php:179 inc/widget-social-links.php:58
+#: inc/widget-social-links.php:107
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer.php:298 inc/extras.php:181 inc/widget-social-links.php:60
+#: inc/widget-social-links.php:112
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer.php:316 inc/extras.php:183 inc/widget-social-links.php:117
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/customizer.php:334 inc/extras.php:185 inc/widget-social-links.php:64
+#: inc/widget-social-links.php:122
+msgid "YouTube"
+msgstr ""
+
+#: inc/customizer.php:346
+msgid "Custom CSS Settings"
+msgstr ""
+
+#: inc/customizer.php:364
+msgid "Custom Css"
+msgstr ""
+
+#: inc/customizer.php:366
+msgid "Put your custom CSS"
+msgstr ""
+
+#: inc/customizer.php:376
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer.php:393
+msgid "Copyright Info"
+msgstr ""
+
+#: inc/extras.php:282
+#, php-format
+msgid ""
+"<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"http://schema."
+"org/Person\">%s</b>"
+msgstr ""
+
+#: inc/extras.php:285
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: inc/extras.php:292 inc/template-tags.php:68 inc/widget-popular-post.php:75
+#: inc/widget-popular-post.php:76 inc/widget-recent-post.php:74
+#: inc/widget-recent-post.php:75
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/extras.php:292
+msgid "Edit"
+msgstr ""
+
+#: inc/extras.php:327
+#, php-format
+msgid "Search Results for %s"
+msgstr ""
+
+#: inc/extras.php:328
+#, php-format
+msgid "(Showing %s Results)"
+msgstr ""
+
+#: inc/extras.php:390
+msgid "Copyright &copy; "
+msgstr ""
+
+#: inc/extras.php:393
+msgid "Kalon by: Rara Theme"
+msgstr ""
+
+#: inc/extras.php:394
+#, php-format
+msgid "Powered by: %s"
+msgstr ""
+
+#: inc/extras.php:394
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/extras.php:524
+msgid "Name*"
+msgstr ""
+
+#: inc/extras.php:526
+msgid "Email*"
+msgstr ""
+
+#: inc/extras.php:528
+msgid "Website"
+msgstr ""
+
+#: inc/extras.php:541
+msgid "Comment"
+msgstr ""
+
+#: inc/info.php:11
+msgid "Information Links"
+msgstr ""
+
+#: inc/info.php:21
+msgid "Need help?"
+msgstr ""
+
+#: inc/info.php:22
+msgid "View demo"
+msgstr ""
+
+#: inc/info.php:22 inc/info.php:23 inc/info.php:24 inc/info.php:25
+#: inc/info.php:26
+msgid "here"
+msgstr ""
+
+#: inc/info.php:23
+msgid "View documentation"
+msgstr ""
+
+#: inc/info.php:24
+msgid "Download Zip"
+msgstr ""
+
+#: inc/info.php:25
+msgid "Support ticket"
+msgstr ""
+
+#: inc/info.php:26
+msgid "More Details"
+msgstr ""
+
+#: inc/info.php:30
+msgid "About Kalon"
+msgstr ""
+
+#: inc/info.php:151
+msgid "Pro Available"
+msgstr ""
+
+#: inc/info.php:153
+msgid "VIEW PRO THEME"
+msgstr ""
+
+#: inc/metabox.php:12
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/metabox.php:24
+msgid "Right Sidebar (default)"
+msgstr ""
+
+#: inc/metabox.php:29
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/metabox.php:41
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "%s "
+msgstr ""
+
+#: inc/template-tags.php:40
+#, php-format
+msgctxt "post comment"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:44
+msgid " / "
+msgstr ""
+
+#: inc/template-tags.php:44
+msgid "/ "
+msgstr ""
+
+#: inc/template-tags.php:48
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:48
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:48
+msgid "% Comments"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:66 inc/template-tags.php:82
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:84
+#, php-format
+msgid "Tags: %1$s "
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:98
+#, php-format
+msgid " Edit %s"
+msgstr ""
+
+#: inc/widget-featured-post.php:25
+msgid "RARA: Featured Post"
+msgstr ""
+
+#: inc/widget-featured-post.php:26
+msgid "A Featured Post Widget"
+msgstr ""
+
+#: inc/widget-featured-post.php:40 inc/widget-featured-post.php:97
+#: inc/widget-featured-post.php:144
+msgid "Read More"
+msgstr ""
+
+#: inc/widget-featured-post.php:85
+msgid "--choose--"
+msgstr ""
+
+#: inc/widget-featured-post.php:104
+msgid "Posts"
+msgstr ""
+
+#: inc/widget-featured-post.php:114
+msgid "Read More Text"
+msgstr ""
+
+#: inc/widget-featured-post.php:118
+msgid "Excerpt Character"
+msgstr ""
+
+#: inc/widget-featured-post.php:124 inc/widget-popular-post.php:119
+#: inc/widget-recent-post.php:118
+msgid "Show Post Thumbnail"
+msgstr ""
+
+#: inc/widget-popular-post.php:25
+msgid "RARA: Popular Post"
+msgstr ""
+
+#: inc/widget-popular-post.php:26
+msgid "A Popular Post Widget"
+msgstr ""
+
+#: inc/widget-popular-post.php:40 inc/widget-popular-post.php:100
+#: inc/widget-popular-post.php:143
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/widget-popular-post.php:108 inc/widget-recent-post.php:107
+#: inc/widget-social-links.php:92
+msgid "Title"
+msgstr ""
+
+#: inc/widget-popular-post.php:113 inc/widget-recent-post.php:112
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/widget-popular-post.php:124 inc/widget-recent-post.php:123
+msgid "Show Post Date"
+msgstr ""
+
+#: inc/widget-recent-post.php:25
+msgid "RARA: Recent Post"
+msgstr ""
+
+#: inc/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr ""
+
+#: inc/widget-recent-post.php:40 inc/widget-recent-post.php:99
+#: inc/widget-recent-post.php:142
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widget-social-links.php:25
+msgid "RARA: Social Links"
+msgstr ""
+
+#: inc/widget-social-links.php:26
+msgid "A Social Links Widget"
+msgstr ""
+
+#: inc/widget-social-links.php:40 inc/widget-social-links.php:81
+#: inc/widget-social-links.php:142
+msgid "Subscribe & Follow"
+msgstr ""
+
+#: inc/widget-social-links.php:62
+msgid "Linkedin"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:30 template-parts/content.php:60
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:41
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:48
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:58
+msgid "Rara One Click Demo Import"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Kalon"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Kalon is a feminine WordPress blog theme that can be used for building "
+"lively and eye-catching websites. It provides a simple, clean, minimal and "
+"modern look that can be used for any kind of personal blog related to "
+"photography, nature, art, design, lifestyle, food, fashion, babies, kids, "
+"wedding or any other creative websites. The design is responsive and shows "
+"very well in mobile and tablet devices. The clean typography and spacious "
+"layout make it great to share your stories.  Kalon incorporates latest web "
+"standards such as HTML5 and CSS3 and is SEO friendly design to help you "
+"quickly rank in google. Kalon is a Cross-Browser Compatible theme that works "
+"on All leading web browsers.The theme comes with the great features and easy "
+"to use Option Panel. The Theme comes with full-screen slider, social icon "
+"integration, custom menu, plenty of widget areas and custom widgets. The "
+"theme is rigorously tested and optimized for speed and faster page load time "
+"and has a secure and clean code. The theme is also translation ready. Demo "
+"at: https://raratheme.com/preview/kalon/, Documentation at https://raratheme."
+"com/documentation/kalon/ and Support at https://raratheme.com/support-forum/"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://raratheme.com/wordpress-themes/kalon/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://raratheme.com/"
+msgstr ""
