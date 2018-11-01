@@ -28,22 +28,22 @@ class BlossomThemes_Toolkit_Cta extends WP_Widget {
         );
     }
 
-    function BlossomThemes_Featured_Page_Button_Alignment()
+    function BlossomThemes_CTA_Button_Alignment()
     {
         $array = array(
             'right'     => 'right',
             'centered'  => 'centered'
         );
-        return $array;
+        return apply_filters('blossomthemes_cta_button_alignment',$array);
     }
 
-    function BlossomThemes_Featured_Page_Button_Numbers()
+    function BlossomThemes_CTA_Button_Numbers()
     {
         $array = array(
             '1'      => '1',
             '2'      => '2',
         );
-        return $array;
+        return apply_filters('blossomthemes_cta_button_numbers',$array);
     }
 
     function bttk_load_cta_colorpicker() {    
@@ -199,7 +199,7 @@ class BlossomThemes_Toolkit_Cta extends WP_Widget {
             <label for="<?php echo esc_attr( $this->get_field_id( 'button_number' ) ); ?>"><?php esc_html_e( 'Number of Call-to-Action Buttons:', 'blossomthemes-toolkit' ); ?></label>
             <select name="<?php echo esc_attr( $this->get_field_name( 'button_number' ) ); ?>" id="<?php echo esc_attr( $this->get_field_id( 'button_number' ) ); ?>" class="widefat cta-button-number">
                 <?php
-                $button_number_options = $this->BlossomThemes_Featured_Page_Button_Numbers();
+                $button_number_options = $this->BlossomThemes_CTA_Button_Numbers();
                 foreach ( $button_number_options as $option ) { ?>
                     <option value="<?php echo $option; ?>" id="<?php echo esc_attr( $this->get_field_id( $option ) ); ?>" <?php selected( $option, $button_number ); ?>><?php echo $option; ?></option>
                 <?php } ?>
@@ -234,7 +234,7 @@ class BlossomThemes_Toolkit_Cta extends WP_Widget {
             <label for="<?php echo esc_attr( $this->get_field_id( 'button_alignment' ) ); ?>"><?php esc_html_e( 'Button Alignment:', 'blossomthemes-toolkit' ); ?></label>
             <select name="<?php echo esc_attr( $this->get_field_name( 'button_alignment' ) ); ?>" id="<?php echo esc_attr( $this->get_field_id( 'button_alignment' ) ); ?>" class="widefat cta-button-alignment">
                 <?php
-                $align_options = $this->BlossomThemes_Featured_Page_Button_Alignment();
+                $align_options = $this->BlossomThemes_CTA_Button_Alignment();
                 foreach ( $align_options as $options ) { ?>
                     <option value="<?php echo $options; ?>" id="<?php echo esc_attr( $this->get_field_id( $options ) ); ?>" <?php selected( $options, $button_alignment ); ?>><?php echo $options; ?></option>
                 <?php } ?>

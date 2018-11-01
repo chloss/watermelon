@@ -4,7 +4,7 @@ Donate link: https://blossomthemes.com
 Tags: toolkit, blossom
 Requires at least: 4.3
 Tested up to: 4.9
-Stable tag: 2.0.6
+Stable tag: 2.0.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -96,4 +96,12 @@ Blossom: Twitter Feed-- You can now show your twitter news feed right on your we
 = 2.0.6 =
 * Filter for all the widgets
 * Client Logo issue fixed
+
+= 2.0.7 =
+* Call-to-Action Bgcolor issue fixed
+* Twitter Syndication js issue fixed
+
+= 2.0.8 =
+* Ad widget issue fixed
+
 

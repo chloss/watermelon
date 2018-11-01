@@ -1,7 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb03fc62-442e-457a-9dfd-4b973145e604" name="Default" comment="" />
+    <list default="true" id="fb03fc62-442e-457a-9dfd-4b973145e604" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/changelog.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/images/wds_ads/cptui-extended.png" afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/images/wds_ads/cptui-extended.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/LICENSE.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/README.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/class-blossomthemes-toolkit-admin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/class-blossomthemes-toolkit-admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/css/blossomthemes-toolkit-admin.css" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/css/blossomthemes-toolkit-admin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/css/chosen.min.css" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/css/chosen.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/css/font-awesome.css" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/css/select2.css" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/css/select2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/css/select2.min.css" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/css/select2.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/js/blossomthemes-toolkit-admin.js" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/js/blossomthemes-toolkit-admin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/js/chosen.jquery.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/js/chosen.jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/js/fontawesome/all.js" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/js/fontawesome/all.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/js/fontawesome/v4-shims.js" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/js/fontawesome/v4-shims.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/js/owl.carousel.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/js/owl.carousel.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/js/select2.js" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/js/select2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/js/select2.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/js/select2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/partials/blossomthemes-toolkit-admin-display.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/admin/partials/blossomthemes-toolkit-admin-display.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/blossomthemes-toolkit.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/blossomthemes-toolkit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/assets/fontawesome.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/assets/fontawesome.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/class-blossomthemes-toolkit-activator.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/class-blossomthemes-toolkit-activator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/class-blossomthemes-toolkit-deactivator.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/class-blossomthemes-toolkit-deactivator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/class-blossomthemes-toolkit-functions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/class-blossomthemes-toolkit-functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/class-blossomthemes-toolkit-i18n.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/class-blossomthemes-toolkit-i18n.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/class-blossomthemes-toolkit-loader.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/class-blossomthemes-toolkit-loader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/class-blossomthemes-toolkit.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/class-blossomthemes-toolkit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/templates/blossom-portfolio.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/templates/blossom-portfolio.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/templates/single-blossom-portfolio.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/templates/single-blossom-portfolio.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-advertisement.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-advertisement.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-author-bio.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-author-bio.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-client-logo.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-client-logo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-contact.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-cta.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-cta.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-custom-categories.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-custom-categories.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-facebook-page.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-facebook-page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-faqs.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-faqs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-featured-page.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-featured-page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-icon-text.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-icon-text.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-image-text.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-image-text.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-pinterest.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-pinterest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-popular-post.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-popular-post.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-posts-category-slider.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-posts-category-slider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-recent-post.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-recent-post.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-snapchat.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-snapchat.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-socialmedia.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-socialmedia.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-stat-counter.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-stat-counter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-team-member.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-team-member.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-testimonial.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-testimonial.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-twitter-feeds.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/includes/widgets/widget-twitter-feeds.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/languages/blossomthemes-toolkit.pot" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/languages/blossomthemes-toolkit.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/class-blossomthemes-toolkit-public.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/class-blossomthemes-toolkit-public.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/css/blossomthemes-toolkit-public.css" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/css/blossomthemes-toolkit-public.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/css/font-awesome.css" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/css/owl.carousel.min.css" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/css/owl.carousel.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/js/blossomthemes-toolkit-public.js" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/js/blossomthemes-toolkit-public.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/js/blossomthemes-toolkit-public.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/js/blossomthemes-toolkit-public.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/js/fontawesome/all.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/js/fontawesome/all.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/js/fontawesome/v4-shims.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/js/fontawesome/v4-shims.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/js/isotope.pkgd.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/js/isotope.pkgd.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/js/odometer.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/js/odometer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/js/owl.carousel.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/js/owl.carousel.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/js/waypoint.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/js/waypoint.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/partials/blossomthemes-toolkit-public-display.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/public/partials/blossomthemes-toolkit-public-display.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/uninstall.php" afterPath="$PROJECT_DIR$/wp-content/plugins/blossomthemes-toolkit/uninstall.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/classes/class.cptui_admin_ui.php" afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/classes/class.cptui_admin_ui.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/classes/class.cptui_debug_info.php" afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/classes/class.cptui_debug_info.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/css/cptui.css" afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/css/cptui.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/css/cptui.min.css" afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/css/cptui.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/css/cptui.scss" afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/css/cptui.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/custom-post-type-ui.php" afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/custom-post-type-ui.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/inc/about.php" afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/inc/about.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/inc/listings.php" afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/inc/listings.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/inc/post-types.php" afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/inc/post-types.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/inc/support.php" afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/inc/support.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/inc/taxonomies.php" afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/inc/taxonomies.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/inc/tools.php" afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/inc/tools.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/inc/utility.php" afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/inc/utility.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/js/cptui.js" afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/js/cptui.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/js/cptui.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/js/cptui.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/watermelon/index.html" afterPath="$PROJECT_DIR$/wp-content/themes/watermelon/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/watermelon/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/watermelon/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/watermelon/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/watermelon/style.css" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,8 +99,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1678">
+              <caret line="227" column="0" lean-forward="false" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/index.php">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -21,18 +129,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/fashion-icon/functions.php">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5304">
-              <caret line="312" column="0" lean-forward="false" selection-start-line="312" selection-start-column="0" selection-end-line="312" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="270">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="46" selection-end-column="58" />
+              <folding>
+                <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="404.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/blossom-fashion/404.php">
+      <file leaf-file-name="specific-page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/specific-page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <folding>
+                <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#0;n#p#0;n#div#0;n#div#0;n#div#3;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#0;n#p#0;n#div#3;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sidebar.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/sidebar.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -41,8 +166,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/blossom-fashion/index.php">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/footer.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -56,6 +181,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/themes/watermelon/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/watermelon/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/watermelon/index.html" />
+        <option value="$PROJECT_DIR$/wp-content/themes/watermelon/specific-page.html" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -63,11 +198,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="202" />
-    <option name="y" value="22" />
-    <option name="width" value="1238" />
-    <option name="height" value="878" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="38" />
+    <option name="y" value="23" />
+    <option name="width" value="1402" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -84,8 +219,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -98,10 +231,25 @@
               <item name="watermelon" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="watermelon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="watermelon" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="watermelon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="watermelon" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="watermelon" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -136,23 +284,25 @@
       <workItem from="1540389840309" duration="2000" />
       <workItem from="1540480962521" duration="22000" />
       <workItem from="1540947488762" duration="3000" />
+      <workItem from="1541044417178" duration="2024000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="445000" />
+    <option name="totallyTimeSpent" value="2469000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1933" height="1053" extended-state="6" />
+    <frame x="38" y="23" width="1402" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15059927" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15049928" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13530655" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13416149" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -175,6 +325,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashion-icon/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4680">
+          <caret line="312" column="0" lean-forward="false" selection-start-line="312" selection-start-column="0" selection-end-line="312" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/blossom-fashion/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/blossom-fashion/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -239,6 +421,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/blossom-fashion/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -249,8 +439,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/fashion-icon/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5304">
+        <state relative-caret-position="4185">
           <caret line="312" column="0" lean-forward="false" selection-start-line="312" selection-start-column="0" selection-end-line="312" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/grid-layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-208">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -263,11 +469,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/blossom-fashion/index.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/._index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1678">
+          <caret line="227" column="0" lean-forward="false" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/specific-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#0;n#p#0;n#div#0;n#div#0;n#div#3;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#0;n#p#0;n#div#3;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="46" selection-end-column="58" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

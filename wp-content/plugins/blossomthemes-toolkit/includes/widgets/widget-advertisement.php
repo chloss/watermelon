@@ -54,7 +54,7 @@ class Bttk_Advertisement_Widget extends WP_Widget {
             $image         = preg_match('/(^.*\.jpg|jpeg|png|gif|ico*)/i', $image_array[0]);
             $fimg_url      = $image_array[0];   
         }else{
-        	echo $code;
+        	$code = $code;
         }
         
         echo $args['before_widget'];
@@ -85,7 +85,7 @@ class Bttk_Advertisement_Widget extends WP_Widget {
                             } ?>
                         </div>
                     <?php } else{ 
-                            echo $code; 
+                            echo html_entity_decode($code); 
                         }	               
                     ?>                
         
