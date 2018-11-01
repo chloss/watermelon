@@ -18,6 +18,33 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	background-color: white;
 }
 
+/* Homepage */
+.grid-container .featuredevents {
+    grid-area: 2/1/span 1/span 8;
+    background-color: green;
+}
+
+.grid-container .about {
+    grid-area: 3/1/span 1/span 8;
+    background-color: blue;
+}
+
+.grid-container .recentnews {
+    grid-area: 4/1/span 1/span 8;
+    background-color: violet;
+}
+
+.grid-container .sponsors {
+    grid-area: 5/1/span 1/span 8;
+    background-color: pink;
+}
+
+.grid-container .ads {
+    grid-area: 6/1/span 1/span 8;
+    background-color: yellow;
+}
+
+/* list all events page */
 .grid-container #Feed {
 	grid-area: 2 / 7 / span 1/ span 2;
 	width: 60%;
@@ -105,35 +132,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
     -webkit-transform: rotate(45deg);
 }
 
-/* Footer */
-#footer {
-    grid-area: 3/1/span 1/span 8;
-    background-color: #F0B57A;
-    background-position: 0px 0px, 50% 0px;
-    background-size: auto, cover;
-}
-
-#subscribe{
-    grid-area: 3/2/span 1/span 6;
-	margin-left: 18vw;
-}
-
-#subscribe .section-heading #black{
-	color: black;
-}
-
-#socialmedia {
-	grid-area: 3/5/span 1/span 2; 
-	margin-top: 3vh;
-	margin-left: 3vw;
-}
-
-.footer-links{
-	grid-area: 3/2/span 1/span 6;
-	margin-top:12vh;
-	margin-left: 5vw;
-
-}
 
 /* 404 Error Page */
 .grid-container .error {
@@ -141,9 +139,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 }
 
 /*.error {*/
-    /*border: 1px solid black;*/
-    /*width: 100%;*/
-    /*height: 20vh;*/
+/*border: 1px solid black;*/
+/*width: 100%;*/
+/*height: 20vh;*/
 /*}*/
 
 .errortext {
@@ -154,6 +152,37 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 .imgerror {
     width: 200px;
     height: 200px;
+}
+
+
+/* Footer */
+#footer {
+    grid-area: 7/1/span 1/span 8;
+    background-color: #F0B57A;
+    background-position: 0px 0px, 50% 0px;
+    background-size: auto, cover;
+}
+
+#subscribe{
+    grid-area: 7/2/span 1/span 6;
+	margin-left: 18vw;
+}
+
+#subscribe .section-heading #black{
+	color: black;
+}
+
+#socialmedia {
+	grid-area: 7/5/span 1/span 2;
+	margin-top: 3vh;
+	margin-left: 3vw;
+}
+
+.footer-links{
+	grid-area: 7/2/span 1/span 6;
+	margin-top:12vh;
+	margin-left: 5vw;
+
 }
 
 /* Another Screen size */
