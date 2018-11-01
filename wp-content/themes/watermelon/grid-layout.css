@@ -1,0 +1,22 @@
+/*
+Theme Name: Watermelon 
+Theme URI: grid
+Description: assignment 3
+Author: Shawn Lee
+Author URI: Test
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+.grid-container {
+  display: grid;
+  height: 100%;
+  grid-template-columns: 12.5% 12.5%  12.5%  12.5%  12.5%  12.5%  12.5%  12.5% ;
+  grid-template-rows: 20vh 61vh 16.67vh;
+  grid-gap: 1px 1px;
+  grid-template-areas: ". . . . . . . ." ". . . . . . . ." ". . . . . . . .";
+	justify-content: center;
+	align-content: center;
+}
+
