@@ -41,8 +41,8 @@
      
 <div id="TR">
 	
-	<img class="icon" id = "cart"src="<?php echo esc_url( get_template_directory_uri() . '/Images/Shopping cart.jpg' ); ?>" alt="">Shopping Cart<img/>
-	<img class="icon" id = "account"  src="<?php echo esc_url( get_template_directory_uri() . '/Images/Account icon.jpg' ); ?>" alt="">Account <img/>
+	<img class="icon" id = "cart" src="<?php echo esc_url( get_template_directory_uri() . '/Images/Shopping cart.jpg' ); ?>" alt="">Shopping Cart<img/>
+	<img class="icon" id = "account" src="<?php echo esc_url( get_template_directory_uri() . '/Images/Account icon.jpg' ); ?>" alt="">Account <img/>
 	
 </div>
 

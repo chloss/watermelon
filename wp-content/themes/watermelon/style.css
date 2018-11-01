@@ -105,15 +105,16 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
     -webkit-transform: rotate(45deg);
 }
 
+/* Footer */
 #footer {
-  grid-area: 3/1/span 1/span 8; 
-  background-color: #F0B57A;
-  background-position: 0px 0px, 50% 0px;
-  background-size: auto, cover;
+    grid-area: 3/1/span 1/span 8;
+    background-color: #F0B57A;
+    background-position: 0px 0px, 50% 0px;
+    background-size: auto, cover;
 }
 
 #subscribe{
-	  grid-area: 3/2/span 1/span 6; 
+    grid-area: 3/2/span 1/span 6;
 	margin-left: 18vw;
 }
 
@@ -121,13 +122,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	color: black;
 }
 
-
 #socialmedia {
 	grid-area: 3/5/span 1/span 2; 
 	margin-top: 3vh;
 	margin-left: 3vw;
 }
-
 
 .footer-links{
 	grid-area: 3/2/span 1/span 6;
@@ -136,11 +135,28 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 }
 
-.error {
-    background-color: green;
+/* 404 Error Page */
+.grid-container .error {
+    grid-area: 2/2/span 1/span 6;
 }
 
+/*.error {*/
+    /*border: 1px solid black;*/
+    /*width: 100%;*/
+    /*height: 20vh;*/
+/*}*/
 
+.errortext {
+    text-align: center;
+    transform: translate(0%, 20%);
+}
+
+.imgerror {
+    width: 200px;
+    height: 200px;
+}
+
+/* Another Screen size */
 @media screen and (min-width: 600px){
 	.footer-link{
 	font-size: 1vw;
@@ -161,7 +177,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 h2{
-	color: white;
+	/*color: white;*/
 }
 
 .nav-link {
