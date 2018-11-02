@@ -54,11 +54,11 @@
 <!-- Most Recent News -->
 <div class="news-grid">
     <div class="newsHeader">
-        <h1 style="margin-top: 8px;">Most Recent News</h1>
+        <h1 style="margin-top: 5px;">Most Recent News</h1>
     </div>
     <div class="recentnews1">
         <article>
-            <h1>HRAFF has been named the top festival</h1>
+            <h2>HRAFF has been named the top festival</h2>
             <img src="<?php echo esc_url( get_template_directory_uri() . '/Images/recentnews1.jpg' ); ?>" style="width: 30%; height: 30%">
             <br>
             <a href="" class="readmorenews">Read more →</a>
@@ -66,7 +66,7 @@
     </div>
     <div class="recentnews2">
         <article>
-            <h1>GUILTY: The last 72 hours of Suhumaran's Life</h1>
+            <h2>The last 72 hours of Suhumaran's Life</h2>
             <img src="<?php echo esc_url( get_template_directory_uri() . '/Images/recentnews2.jpg' ); ?>" style="width: 30%; height: 30%">
             <br>
             <a href="" class="readmorenews">Read more →</a>
@@ -74,7 +74,7 @@
     </div>
     <div class="recentnews3">
         <article>
-            <h1>Opening Night Wrap Up</h1>
+            <h2>Opening Night Wrap Up</h2>
             <img src="<?php echo esc_url( get_template_directory_uri() . '/Images/recentnews3.jpg' ); ?>" style="width: 30%; height: 30%">
             <br>
             <a href="" class="readmorenews">Read more →</a>

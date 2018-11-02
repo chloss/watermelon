@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb03fc62-442e-457a-9dfd-4b973145e604" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/watermelon/grid-layout.css" afterPath="$PROJECT_DIR$/wp-content/themes/watermelon/grid-layout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/watermelon/chloe-style.css" afterPath="$PROJECT_DIR$/wp-content/themes/watermelon/chloe-style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/watermelon/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/watermelon/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/watermelon/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/watermelon/style.css" />
     </list>
@@ -16,33 +15,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="214" column="23" lean-forward="false" selection-start-line="214" selection-start-column="23" selection-end-line="214" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="98" column="94" lean-forward="false" selection-start-line="98" selection-start-column="94" selection-end-line="98" selection-end-column="94" />
+            <state relative-caret-position="258">
+              <caret line="67" column="16" lean-forward="false" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
               <folding>
-                <element signature="e#370#388#0#HTML" expanded="true" />
-                <element signature="e#644#662#0#HTML" expanded="true" />
-                <element signature="e#917#935#0#HTML" expanded="true" />
-                <element signature="e#1229#1254#0#HTML" expanded="true" />
-                <element signature="e#1522#1544#0#HTML" expanded="true" />
-                <element signature="e#1570#1592#0#HTML" expanded="true" />
                 <element signature="e#2281#2305#0#HTML" expanded="true" />
-                <element signature="e#2552#2583#0#HTML" expanded="true" />
-                <element signature="e#2913#2944#0#HTML" expanded="true" />
-                <element signature="e#3250#3281#0#HTML" expanded="true" />
-                <element signature="e#3470#3494#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/style.css">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="220" column="27" lean-forward="false" selection-start-line="220" selection-start-column="27" selection-end-line="220" selection-end-column="27" />
+            <state relative-caret-position="356">
+              <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -67,8 +66,9 @@
         <option value="$PROJECT_DIR$/wp-content/themes/watermelon/404.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/watermelon/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/watermelon/grid-layout.css" />
-        <option value="$PROJECT_DIR$/wp-content/themes/watermelon/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/watermelon/chloe-style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/watermelon/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/watermelon/index.php" />
       </list>
     </option>
   </component>
@@ -165,12 +165,12 @@
       <workItem from="1540389840309" duration="2000" />
       <workItem from="1540480962521" duration="22000" />
       <workItem from="1540947488762" duration="3000" />
-      <workItem from="1541044417178" duration="16334000" />
+      <workItem from="1541044417178" duration="17504000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16779000" />
+    <option name="totallyTimeSpent" value="17949000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="23" width="1402" height="877" extended-state="6" />
@@ -396,18 +396,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/list-all.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/404.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="82" lean-forward="true" selection-start-line="28" selection-start-column="82" selection-end-line="28" selection-end-column="82" />
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -420,55 +412,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/404.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/list-all.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="98" column="94" lean-forward="false" selection-start-line="98" selection-start-column="94" selection-end-line="98" selection-end-column="94" />
-          <folding>
-            <element signature="e#370#388#0#HTML" expanded="true" />
-            <element signature="e#644#662#0#HTML" expanded="true" />
-            <element signature="e#917#935#0#HTML" expanded="true" />
-            <element signature="e#1229#1254#0#HTML" expanded="true" />
-            <element signature="e#1522#1544#0#HTML" expanded="true" />
-            <element signature="e#1570#1592#0#HTML" expanded="true" />
-            <element signature="e#2281#2305#0#HTML" expanded="true" />
-            <element signature="e#2552#2583#0#HTML" expanded="true" />
-            <element signature="e#2913#2944#0#HTML" expanded="true" />
-            <element signature="e#3250#3281#0#HTML" expanded="true" />
-            <element signature="e#3470#3494#0#HTML" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/grid-layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="60">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="62" column="20" lean-forward="true" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/chloe-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="131" column="0" lean-forward="true" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="220" column="27" lean-forward="false" selection-start-line="220" selection-start-column="27" selection-end-line="220" selection-end-column="27" />
+        <state relative-caret-position="335">
+          <caret line="214" column="23" lean-forward="false" selection-start-line="214" selection-start-column="23" selection-end-line="214" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/watermelon/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="67" column="16" lean-forward="false" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
+          <folding>
+            <element signature="e#2281#2305#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
