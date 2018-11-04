@@ -3,7 +3,7 @@
 <?php 
    // the query
    $the_query = new WP_Query( array(
-	   'category_name'=> 'Events',
+	   'category_name'=> 'News',
    'posts_per_page'   => -1,
    )); 
 ?>

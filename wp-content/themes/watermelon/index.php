@@ -19,6 +19,7 @@
 <?php
 $content = array();
 $links = array();
+$titles = array();
 $news = array();
 $newsTitle = array();
 $newsLinks = array();
@@ -29,6 +30,7 @@ $newsLinks = array();
 
     <?php array_push($content, get_the_post_thumbnail());
  	      array_push($links, get_permalink());
+  		  array_push($titles, get_the_title());
 ?>
 
   <?php endwhile; ?>
@@ -61,20 +63,22 @@ $newsLinks = array();
         <!-- Full-width images with number and caption text -->
         <div class="mySlides fade">
        
-             <a href= "<?php echo $links[0]?> "><img class="slideImage" <?php echo $content[0]; ?></img> </a>
-            
+             <a href= "<?php echo $links[0]?> "><img class="slideImage" <?php echo $content[0]; ?></img> </a><br><b class = "slideTitle">
+            <?php echo $titles[0]?></b>
             
         </div>
 
         <div class="mySlides fade">
         
-               <a href= "<?php echo $links[1]?> "><img class="slideImage" <?php echo $content[1]; ?></img> </a>
+               <a href= "<?php echo $links[1]?> "><img class="slideImage" <?php echo $content[1]; ?></img> </a><br><b class = "slideTitle">
+            <?php echo $titles[1]?></b>
             
         </div>
 
         <div class="mySlides fade">
           
-                <a href= "<?php echo $links[2]?> "><img class="slideImage" <?php echo $content[2]; ?></img> </a>
+                <a href= "<?php echo $links[2]?> "><img class="slideImage" <?php echo $content[2]; ?></img> </a><br><b class = "slideTitle">
+            <?php echo $titles[2]?></b>
           
         </div>
 

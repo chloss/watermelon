@@ -26,7 +26,7 @@
           <a href="" class="nav-link w-nav-link"><strong>ABOUT</strong></a>
           <a href="http://localhost:3157/watermelon/?page_id=32" class="nav-link w-nav-link"><strong>PROGRAM</strong></a>
           <a href="" class="nav-link w-nav-link"><strong>CINESEEDS</strong></a>
-          <a href="" class="nav-link w-nav-link"><strong>NEWS</strong></a>
+          <a href="http://localhost:3157/watermelon/?page_id=156" class="nav-link w-nav-link"><strong>NEWS</strong></a>
           <a href="" class="nav-link w-nav-link"><strong>OUR IMPACT</strong></a>
           <a href="" class="nav-link w-nav-link"><strong>GET INVOLVED</strong></a>
           <a href="" class="nav-link w-nav-link"><strong>CONTACT US</strong></a>

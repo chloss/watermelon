@@ -91,11 +91,12 @@ a:hover {
 	height: 30vh;
     position: relative;
     text-align: center;
-	margin-top:4vh;
+	
 }
 
 /* Hide the images by default */
 .mySlides {
+	margin-top: -0.5vw;
     display: none;
 	
 }
@@ -109,7 +110,7 @@ a:hover {
 
 /* Next & previous buttons */
 .prev, .next {
-	margin-left: -26vw;
+	margin-left: -18vw;
     cursor: pointer;
     position: absolute;
     top: 50%;
@@ -125,7 +126,7 @@ a:hover {
 
 /* Position the "next button" to the right */
 .next {
-   margin-left: 22vw;
+   margin-left: 16vw;
     border-radius: 3px 0 0 3px;
 }
 
@@ -160,11 +161,16 @@ a:hover {
     cursor: pointer;
     height: 15px;
     width: 15px;
-    margin: 0 2px;
+    margin: 1px 2px;
+	margin-top: 3vw;
     background-color: #bbb;
     border-radius: 50%;
     display: inline-block;
     transition: background-color 0.6s ease;
+}
+
+.slideTitle{
+	font-size: 1vw;
 }
 
 .active, .dot:hover {
