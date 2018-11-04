@@ -22,9 +22,9 @@
 
         <div class="container-2 w-container">
           <nav role="navigation" class="nav-menu w-nav-menu">
-          <a href="" class="nav-link w-nav-link"><strong>HOME</strong></a>
+          <a href="http://localhost:3157/watermelon/" class="nav-link w-nav-link"><strong>HOME</strong></a>
           <a href="" class="nav-link w-nav-link"><strong>ABOUT</strong></a>
-          <a href="" class="nav-link w-nav-link"><strong>PROGRAM</strong></a>
+          <a href="http://localhost:3157/watermelon/?page_id=32" class="nav-link w-nav-link"><strong>PROGRAM</strong></a>
           <a href="" class="nav-link w-nav-link"><strong>CINESEEDS</strong></a>
           <a href="" class="nav-link w-nav-link"><strong>NEWS</strong></a>
           <a href="" class="nav-link w-nav-link"><strong>OUR IMPACT</strong></a>

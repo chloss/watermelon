@@ -83,27 +83,38 @@ a:hover {
 /* Featured Events Slide Show */
 .grid-container .featuredevents {
     grid-area: 2/1/span 1/span 8;
-    
+	
 }
 /* Slideshow container */
 .grid-container .featuredevents .slideshow-container {
-    max-width: 100px;
+    max-width: 100%;
+	height: 30vh;
     position: relative;
-    margin: auto;
+    text-align: center;
+	margin-top:4vh;
 }
 
 /* Hide the images by default */
 .mySlides {
     display: none;
+	
+}
+
+.slideImage {
+ 
+	width:300vw;
+	height: auto;
+	max-width: 700px;
 }
 
 /* Next & previous buttons */
 .prev, .next {
+	margin-left: -26vw;
     cursor: pointer;
     position: absolute;
     top: 50%;
     width: auto;
-    margin-top: -22px;
+    margin-top: -20px;
     padding: 16px;
     color: white;
     font-weight: bold;
@@ -114,7 +125,7 @@ a:hover {
 
 /* Position the "next button" to the right */
 .next {
-    right: 0;
+   margin-left: 22vw;
     border-radius: 3px 0 0 3px;
 }
 
@@ -122,6 +133,7 @@ a:hover {
 .prev:hover, .next:hover {
     background-color: rgba(0,0,0,0.8);
 }
+
 
 /* Caption text */
 .text {
@@ -213,6 +225,7 @@ a:hover {
     margin-left: 4px;
     align-content: center;
     text-align: center;
+	font-size: 1vw;
 }
 
 .news-grid .recentnews2 {
@@ -220,6 +233,7 @@ a:hover {
     background-color: whitesmoke;
     align-content: center;
     text-align: center;
+	font-size: 1vw;
 }
 
 .news-grid .recentnews3 {
@@ -227,6 +241,13 @@ a:hover {
     background-color: whitesmoke;
     align-content: center;
     text-align: center;
+	font-size: 1vw;
+}
+
+.news-grid img{
+	width:100%;
+	height: auto;
+	max-width: 200px;
 }
 
 /* Sponsors */
@@ -275,7 +296,7 @@ a:hover {
 /* Ads */
 .grid-container .ads {
     grid-area: 6/1/span 1/span 8;
-    background-color: blue;
+    background-color: grey;
 }
 
 /* ======================================================== */
@@ -290,17 +311,33 @@ a:hover {
 }
 
 .info{
-	grid-area: 2/1/span 1/ span 6;
-	margin-left: 4vw;
+	grid-area: 2/2/span 3/ span 6;
+	align-content: center;
+	text-align: center;
 
 }
 
 .infobox{
 	position:relative;
 	float: left;
-	width:55vw;
+	width:56.85vw;
 	height: 100%;
-	background-color: white;
+	background-color: #F0F0F0;
+}
+
+.moreinfobutton{
+	padding: 2vh 3vw 2vh 3vw;
+	font-size: 1vw;
+}
+
+.infoboxImage{
+	width:40vw;
+	height: 30vh;
+}
+
+.infolistImage{
+	width:10vw;
+	height: auto;
 }
 
 .infolist{
@@ -313,23 +350,42 @@ a:hover {
 	background-color: white;
 }
 
+
 .infobox table,.infobox th,.infobox td {
 	border-collapse: collapse;
 	width:100%;
 	height:15vh;
 	padding-left: 1vw;
-	padding-top: 5vh;
+
 	
 }
 
-.infolist table,.infolist th,.infolist td {
+.infolist table,.infolist th,.infolist td{
 	border-collapse: collapse;
     border-top: 1px solid black;
 	border-bottom: 1px solid black;
 	width:100%;
+	height:15vh;	
+
+}
+
+.click a {
+	display: block;
+}
+
+.infobox .excerpt {
+	border-collapse: collapse;
+	width:100%;
 	height:15vh;
-	padding-left: 1vw;
-	cursor: pointer;
+	padding-left: 6vw;
+	padding-right: 6vw;
+	padding-top: 10vh;
+	font-size: 1.5vw;
+}
+
+.infobox .postTitle{
+	font-size: 3vw;
+	font:bolder;
 }
 
 .listImage{
@@ -392,9 +448,9 @@ a:hover {
     background-size: auto, cover;
 }
 
-#subscribe{
-    grid-area: 7/2/span 1/span 6;
-	margin-left: 18vw;
+.ads #subscribe{   
+	text-align: center;
+	margin-top: 2vw;
 }
 
 #subscribe .section-heading #black{
@@ -402,17 +458,27 @@ a:hover {
 }
 
 #socialmedia {
-	grid-area: 7/5/span 1/span 2;
+	grid-area: 7/4/span 1/span 4;
 	margin-top: 3vh;
-	margin-left: 3vw;
+	
+
+}
+
+.twitter{
+	padding-left: 3vw;
 }
 
 .footer-links{
 	grid-area: 7/2/span 1/span 6;
-	margin-top:12vh;
+	margin-top:8vh;
 	margin-left: 5vw;
 
 }
+
+[title~=post] {
+    border: 5px solid yellow;
+}
+
 
 /* ======================================================== */
 /* ======================================================== */
@@ -424,7 +490,7 @@ a:hover {
 	}
 }
 
-.footer-link {
+.footer-link {	
   padding: 0 8vw 0 6vw;
 	font-size: 0.8vw;
   font-family: Oxygen, sans-serif;

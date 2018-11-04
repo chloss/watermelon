@@ -1,26 +1,81 @@
 <?php get_header(); ?>
 
+<?php 
+   // the query
+   $the_query = new WP_Query( array(
+	   'category_name' =>'Events',
+      'posts_per_page' => 3,
+   )); 
+?>
+
+<?php 
+   // the query
+   $news_query = new WP_Query( array(
+	   'category_name' =>'News',
+      'posts_per_page' => 3,
+   )); 
+?>
+
+<?php
+$content = array();
+$links = array();
+$news = array();
+$newsTitle = array();
+$newsLinks = array();
+?>
+
+<?php if ( $the_query->have_posts() ) : ?>
+  <?php while ( $the_query->have_posts() ) : $the_query->the_post(); ?>
+
+    <?php array_push($content, get_the_post_thumbnail());
+ 	      array_push($links, get_permalink());
+?>
+
+  <?php endwhile; ?>
+  <?php wp_reset_postdata(); ?>
+
+<?php else : ?>
+  <p><?php __('No News'); ?></p>
+<?php endif; ?>
+
+<?php if ( $news_query->have_posts() ) : ?>
+  <?php while ( $news_query->have_posts() ) : $news_query->the_post(); ?>
+
+    <?php array_push($news, get_the_post_thumbnail());
+ 	      array_push($newsLinks, get_permalink());
+ 		  array_push($newsTitle, get_the_title());
+?>
+
+  <?php endwhile; ?>
+  <?php wp_reset_postdata(); ?>
+
+<?php else : ?>
+  <p><?php __('No News'); ?></p>
+<?php endif; ?>
+
+
 <!-- Featured events -->
 <div class="featuredevents">
     <div class="slideshow-container">
 
         <!-- Full-width images with number and caption text -->
         <div class="mySlides fade">
-            <div class="numbertext">1 / 3</div>
-            <img src="<?php echo esc_url( get_template_directory_uri() . '/Images/hraff-logo.png' ); ?>" style="width:100%">
-            <div class="text">Caption Text</div>
+       
+             <a href= "<?php echo $links[0]?> "><img class="slideImage" <?php echo $content[0]; ?></img> </a>
+            
+            
         </div>
 
         <div class="mySlides fade">
-            <div class="numbertext">2 / 3</div>
-            <img src="<?php echo esc_url( get_template_directory_uri() . '/Images/hraff-logo.png' ); ?>" style="width:100%">
-            <div class="text">Caption Two</div>
+        
+               <a href= "<?php echo $links[1]?> "><img class="slideImage" <?php echo $content[1]; ?></img> </a>
+            
         </div>
 
         <div class="mySlides fade">
-            <div class="numbertext">3 / 3</div>
-            <img src="<?php echo esc_url( get_template_directory_uri() . '/Images/hraff-logo.png' ); ?>" style="width:100%">
-            <div class="text">Caption Three</div>
+          
+                <a href= "<?php echo $links[2]?> "><img class="slideImage" <?php echo $content[2]; ?></img> </a>
+          
         </div>
 
         <!-- Next and previous buttons -->
@@ -58,51 +113,30 @@
     </div>
     <div class="recentnews1">
         <article>
-            <h2>HRAFF has been named the top festival</h2>
-            <img src="<?php echo esc_url( get_template_directory_uri() . '/Images/recentnews1.jpg' ); ?>" style="width: 30%; height: 30%">
+            <h2><?php echo $newsTitle[2]?></h2>
+         		<img class='newsImage' <?php echo $news[2]?>>
             <br>
-            <a href="" class="readmorenews">Read more →</a>
+           <a href="<?php echo $newsLinks[2]?> " class="readmorenews">Read more →</a>
         </article>
     </div>
     <div class="recentnews2">
         <article>
-            <h2>The last 72 hours of Suhumaran's Life</h2>
-            <img src="<?php echo esc_url( get_template_directory_uri() . '/Images/recentnews2.jpg' ); ?>" style="width: 30%; height: 30%">
+            <h2><?php echo $newsTitle[1]?></h2>
+       		<img class='newsImage' <?php echo $news[1]?>>
             <br>
-            <a href="" class="readmorenews">Read more →</a>
+         <a href="<?php echo $newsLinks[1]?> " class="readmorenews">Read more →</a>
         </article>
     </div>
     <div class="recentnews3">
         <article>
-            <h2>Opening Night Wrap Up</h2>
-            <img src="<?php echo esc_url( get_template_directory_uri() . '/Images/recentnews3.jpg' ); ?>" style="width: 30%; height: 30%">
+            <h2><?php echo $newsTitle[0]?></h2>
+         	<img class='newsImage' <?php echo $news[0]?>>
             <br>
-            <a href="" class="readmorenews">Read more →</a>
+            <a href="<?php echo $newsLinks[0]?> " class="readmorenews">Read more →</a>
         </article>
     </div>
 </div>
 
-<div class="sponsors-grid">
-    <div class="sponsorHeader">
-        <h1 style="margin-top: 8px;">Sponsors</h1>
-    </div>
-    <div class="sponsors1">
-        <img src="<?php echo esc_url( get_template_directory_uri() . '/Images/bankaustralia.png' ); ?>">
-    </div>
-    <div class="sponsors2">
-        <img src="<?php echo esc_url( get_template_directory_uri() . '/Images/lush.png' ); ?>">
-    </div>
-    <div class="sponsors3">
-        <img src="<?php echo esc_url( get_template_directory_uri() . '/Images/theguardian.png' ); ?>">
-    </div>
-    <div class="sponsors4">
-        <img src="<?php echo esc_url( get_template_directory_uri() . '/Images/thesaturdaypaper.png' ); ?>">
-    </div>
-</div>
-
-<div class="ads">
-    <h1>test</h1>
-</div>
 
 <script>
 var slideIndex = 1;
@@ -131,6 +165,8 @@ function showSlides(n) {
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
 }
+	 
+    // Change image every 2 seconds
 </script>
 
 <?php get_footer(); ?>
